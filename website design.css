@@ -1,0 +1,72 @@
+h1 {
+    color: white;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: bold;
+    font-size: 55px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: white;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h4 {
+    color: white;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+/* unvisited link */
+a:link {
+    color: #33adff;
+}
+
+/* visited link */
+a:visited {
+    color: #d580ff;
+}
+
+div {
+    scale: 120%;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+p {
+    color: white;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.5;
+    margin-top: 70px;
+    font-style: italic;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    align-content: center;
+    background-color: black;
+    margin-bottom: 30px;
+}
