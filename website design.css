@@ -26,16 +26,6 @@ h4 {
     margin-top: 30px;
 }
 
-/* unvisited link */
-a:link {
-    color: #33adff;
-}
-
-/* visited link */
-a:visited {
-    color: #d580ff;
-}
-
 div {
     scale: 120%;
     margin-bottom: 30px;
@@ -52,7 +42,6 @@ p {
     font-style: italic;
 }
 
-html,
 body {
     height: 100%;
     width: 100%;
